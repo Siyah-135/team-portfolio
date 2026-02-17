@@ -1,2 +1,2 @@
 <h1>Our Team Portfolio</h1>
-<p>Welcome to our shared projects
+ <p>This project showcases the skills of Developer </P>
